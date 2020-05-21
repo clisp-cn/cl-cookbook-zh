@@ -12,15 +12,27 @@
 
 ​           它非常适合只需要一个良好起点的Lisp的绝对初学者，也适合希望尽量减少准备一切的时间的高级用户。         
 
+<br />
 
+<br />
 
-
-
-
+<br />
 
 ---
 
-## 如何使用
+下载地址：
+
+Windows： https://github.com/portacle/portacle/releases/download/1.4/win-portacle.exe
+
+Mac OS X： https://github.com/portacle/portacle/releases/download/1.4/mac-portacle.dmg
+
+Linux： https://github.com/portacle/portacle/releases/download/1.4/lin-portacle.tar.xz
+
+---
+
+<br />
+
+## 如何使用它
 
 **需要注意的是，Portacle是个IDE集成工具，需要在桌面环境下使用，而不是命令行**
 
