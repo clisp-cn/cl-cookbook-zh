@@ -12,7 +12,7 @@
 
 **源仓库**：
   - Github：[https://github.com/clisp-cn/cl-cookbook-zh](https://github.com/clisp-cn/cl-cookbook-zh)
-  - Gitee: [https://gitee.com/clisp/cl-cookbook-cn](https://gitee.com/clisp/cl-cookbook-cn)
+  - Gitee: [https://gitee.com/clisp/cl-cookbook-zh](https://gitee.com/clisp/cl-cookbook-zh)
 
 **网站地址**：
   - [https://oneforalone.github.io/cl-cookbook-cn/](https://oneforalone.github.io/cl-cookbook-cn/#/)(初版)
